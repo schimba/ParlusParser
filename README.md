@@ -6,7 +6,7 @@ Aby korzystać z parsera:
 
 pytania.txt powinny mieć następujący format:
 
-~
+
 1. W przypadku wystąpienia objawów depresji oddechowej u chorującego stosującego leki opioidowe zastosujesz: 
 a. nalokson*
 b. flumazenil
@@ -24,6 +24,5 @@ a. morfina
 b. buprenorfina*
 c. oksykodon 
 d. metadon
-~
 
 Prawidłowe odpowiedzi oznaczone są *, ilość pytań i odpowiedzi nie ma znaczenia, pamiętaj tylko aby przed poleceniem był indeks np. "69. Sample pytanie?"
